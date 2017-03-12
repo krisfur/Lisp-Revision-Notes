@@ -9,8 +9,8 @@ comment
 ;;;;primarily based on tutorials of Derek Banas on YouTube as well as other resources
 ;;; https://youtu.be/ymSq4wHrqyU
 
-(format t "Hello") ;prints "Hello to the terminal"
-(format t "Hello World!" ~%) ;prints and adds a new line at the end_image
+(format t "Hello") ;prints "Hello" to the terminal
+(format t "Hello World!" ~%) ;prints and adds a new line at the end
 
 (print "Insert your name: ")
 
